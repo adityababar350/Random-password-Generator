@@ -12,7 +12,3 @@ Technologies Used
 - random module
 - string module
 
-How to Run
-1. Install Python
-2. Run the script:
-   python password_generator.py
